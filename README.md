@@ -1,4 +1,6 @@
 <h2> Hello world, I'm Nathália <img src="https://media4.giphy.com/media/2xplb23EL6F5GA8qQf/giphy.gif" width="50"></h2>
+<img align='right' src="https://raw.githubusercontent.com/halia-gt/halia-gt/cac1a0b18cc92b220c9329162253a8cec1debe97/undraw_dev_focus_re_6iwt.svg" width="500">
+
 <p><em>Civil Enginner at UDESC</br>
 Student at Driven Education
 </em></p>
@@ -6,7 +8,7 @@ Student at Driven Education
 <a target="_blank" href="https://www.linkedin.com/in/020928122/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:nathalia.gramst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
-<h3>Languages and Tools...</h3>
+<h3>Languages and Tools <img src="https://raw.githubusercontent.com/halia-gt/halia-gt/main/attention.gif" width="40"></h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -18,11 +20,11 @@ Student at Driven Education
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br>
-<h3>Currently learning</h3>
+<h3>Currently learning <img src="https://raw.githubusercontent.com/halia-gt/halia-gt/main/thunder.gif" width="40"></h3>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 </br>
-<h3>A little more about me</h3>
+<h3>A little more about me... <img src="https://raw.githubusercontent.com/halia-gt/halia-gt/main/stars.gif" width="40"></h3>
 
 ```javascript
 const halia = {
