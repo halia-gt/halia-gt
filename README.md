@@ -1,16 +1,49 @@
-### Hi there 👋
+<h2> Hello world, I'm Nathália <img src="https://media4.giphy.com/media/2xplb23EL6F5GA8qQf/giphy.gif" width="50"></h2>
+<p><em>Civil Enginner at UDESC</br>
+Student at Driven Education
+</em></p>
 
-<!--
-**halia-gt/halia-gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" href="https://www.linkedin.com/in/020928122/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:nathalia.gramst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
-Here are some ideas to get you started:
+<h3>Languages and Tools...</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+</br>
+<h3>Currently learning</h3>
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+</br>
+<h3>A little more about me</h3>
+
+```javascript
+const halia = {
+  pronouns: 'she' | 'her',
+  status: 'student',
+  languages: ['pt_BR', 'en_US'],
+  hobbies: {
+              sports: ['muay thai'],
+              books: ['fantasy', 'mystery', 'literary fiction', 'historical fiction', 'horror'],
+              pet: 'dog'
+           },
+  challenge: 'I am participating in codewars with my colleagues'
+}
+```
+
+<details>
+  <summary>GitHub Stats</summary>
+  <img align="left" alt="Nathália's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=halia-gt&theme=radical&show_icons=true" />
+</details>
+
+<details>
+  <summary>Most used languages</summary>
+  <img align="left" alt="Nathália's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halia-gt&theme=radical" />
+</details>
