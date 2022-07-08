@@ -21,7 +21,7 @@ Student at Driven Education
 
 </br>
 </br>
-<h3>Currently learning... <img src="https://raw.githubusercontent.com/halia-gt/halia-gt/main/thunder.gif" width="40"></h3>
+<h3>Currently learning... <img src="https://raw.githubusercontent.com/halia-gt/halia-gt/main/attention.gif" width="40"></h3>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 </br>
