@@ -1,5 +1,5 @@
 <h2> Hello world, I'm Nathália <img src="https://media4.giphy.com/media/2xplb23EL6F5GA8qQf/giphy.gif" width="50"></h2>
-<img align='right' src="https://raw.githubusercontent.com/halia-gt/halia-gt/cac1a0b18cc92b220c9329162253a8cec1debe97/undraw_dev_focus_re_6iwt.svg" width="450">
+<img align='right' src="https://raw.githubusercontent.com/halia-gt/halia-gt/cac1a0b18cc92b220c9329162253a8cec1debe97/undraw_dev_focus_re_6iwt.svg" width="500">
 
 <p><em>Civil Engineer at UDESC</br>
 Student at Driven Education
