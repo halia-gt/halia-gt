@@ -45,7 +45,7 @@ const halia = {
 ```
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>Github stats</summary>
   <img align="left" alt="Nathália's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=halia-gt&theme=radical&show_icons=true" />
 </details>
 
