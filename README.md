@@ -24,12 +24,12 @@ Full Stack Development student at Driven Education
 <br>
 <img align="left" alt="Mongo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Nodejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 </br>
 </br>
 <h3>Currently learning... <img src="https://raw.githubusercontent.com/halia-gt/halia-gt/main/attention.gif" width="40"></h3>
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 </br>
 <h3>A little more about me... <img src="https://raw.githubusercontent.com/halia-gt/halia-gt/main/stars.gif" width="40"></h3>
