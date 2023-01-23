@@ -1,8 +1,8 @@
 <h2> Hello world, I'm Nathália <img src="https://media4.giphy.com/media/2xplb23EL6F5GA8qQf/giphy.gif" width="50"></h2>
 <img align='right' src="https://raw.githubusercontent.com/halia-gt/halia-gt/cac1a0b18cc92b220c9329162253a8cec1debe97/undraw_dev_focus_re_6iwt.svg" width="500">
 
-<p><em>Civil Engineer at UDESC</br>
-Full Stack Development student at Driven Education
+<p><em>Full Stack Development student at Driven Education</br>
+Civil Engineer at UDESC
 </em></p>
 
 <a target="_blank" href="https://www.linkedin.com/in/020928122/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
