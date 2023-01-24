@@ -30,7 +30,7 @@ Civil Engineer at UDESC
 </br>
 <img align="left" alt="Prisma" width="26px" src="https://user-images.githubusercontent.com/86934923/213812370-302a9834-635f-4a61-856b-327c14650376.svg" />
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="Redis" width="26px" src="https://user-images.githubusercontent.com/86934923/214198102-a839435d-cb66-4bdf-9435-582cb22963f2.svg" />
+<img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 </br>
 </br>
 
