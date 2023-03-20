@@ -31,12 +31,15 @@ Civil Engineer at UDESC
 <img align="left" alt="Prisma" width="26px" src="https://user-images.githubusercontent.com/86934923/213812370-302a9834-635f-4a61-856b-327c14650376.svg" />
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+</br>
+</br>
+<img align="left" alt="Aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 </br>
 </br>
 
 <h3>Currently learning... <img src="https://raw.githubusercontent.com/halia-gt/halia-gt/main/attention.gif" width="40"></h3>          
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align="left" alt="Aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
 
 </br>
